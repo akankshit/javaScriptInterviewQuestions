@@ -1,0 +1,19 @@
+{
+  "name": "javascriptinterviewquestions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionDeclarationAndAssignmet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akankshit/javaScriptInterviewQuestions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akankshit/javaScriptInterviewQuestions/issues"
+  },
+  "homepage": "https://github.com/akankshit/javaScriptInterviewQuestions#readme"
+}
